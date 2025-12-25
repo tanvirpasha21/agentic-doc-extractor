@@ -1,0 +1,5 @@
+paddleocr
+pymupdf
+layoutparser
+torch
+opencv-python
